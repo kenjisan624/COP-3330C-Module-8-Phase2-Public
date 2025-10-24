@@ -23,13 +23,13 @@ Now in the Phase 2 Software Testing, The NavigationMenuTest will be running test
 This console based app basically work with the below 3 files:
 
 
-<img src="images/test.png" width="150" >
+<img src="images/folder_icon (2).png" width="150" >
 
 **NavigationMenuTest.java** 
 
 which contain the test cases that will be conducted: 
 
-<img src="images/test.png" width="150" >
+<img src="images/test.png" width="550" >
 
 
 
