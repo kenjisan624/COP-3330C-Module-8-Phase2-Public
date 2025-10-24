@@ -23,7 +23,7 @@ Now in the Phase 2 Software Testing, The NavigationMenuTest will be running test
 This console based app basically work with the below 3 files:
 
 
-<img src="images/folder_icon.png" width="150" >
+<img src="images/test.png" width="150" >
 
 **NavigationMenuTest.java** 
 
@@ -36,7 +36,7 @@ which contain the test cases that will be conducted:
 The UML model is as follow:
 Might be difficult to see but these test were previously planned on the course while we designed the test cases. 
 
-<img src="images/uml.png" width="900" >
+<img src="images/remove.png" width="900" >
 
 Access Canva site: 
 https://www.canva.com/design/DAG07aTaRiE/BeaOak-9wV0z5ZcLjhoKgw/edit
